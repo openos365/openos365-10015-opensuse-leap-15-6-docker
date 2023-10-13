@@ -30,9 +30,5 @@ systemd-network:!::
 dbus:!::
 gluster:!::
 ssh_keys:!::
-tss:!::
-stapusr:!::
-stapsys:!::
-stapdev:!::
 www:!::
 runner:!::

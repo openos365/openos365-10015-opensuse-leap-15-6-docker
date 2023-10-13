@@ -30,9 +30,5 @@ systemd-network:x:192:
 dbus:x:81:
 gluster:x:998:
 ssh_keys:x:997:
-tss:x:59:
-stapusr:x:156:
-stapsys:x:157:
-stapdev:x:158:
 www:x:1000:
 runner:x:1001:
